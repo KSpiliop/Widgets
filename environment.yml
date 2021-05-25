@@ -6,5 +6,7 @@ dependencies:
   - pandas
   - openpyxl
   - ipywidgets
-  - scispacy
-  - pprint
+  - pip
+  - pip:
+    - scispacy
+  
